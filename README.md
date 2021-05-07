@@ -15,7 +15,7 @@ aku punya passion yang besar dalam bidang :
  -  pengembangan web 💻
  -  data science/machine learning 🧠
  -  pengembangan game 🎮
- -  
+
 Makanan kesukaan ku adalah nasi padang, nasi goreng, mie goreng, indomie dan banyak lagi 🥘
 ## salam kenal semua 😄
 

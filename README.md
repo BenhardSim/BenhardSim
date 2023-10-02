@@ -1,7 +1,7 @@
 # Hi There :wave:
-Hello my name is Benhard Simanullang i know it can be quite mouthful so you can call me Ben instead.
-I am a student at Universitas Diponegoro majoring computer science 🖥️ in indonesia :indonesia: and have great pasion in :
--   web development 💻
--   data science/machine learning 🧠
--   game development 🎮
+Hello, my name is Benhard Simanullang you can call me Ben.
+I am a student at Universitas Diponegoro majoring in computer science 🖥️ in Indonesia :indonesia: and have a great passion in :
+-   Back-End Development
+-   Cloud infra and engineering
+-   DevOps 
 
